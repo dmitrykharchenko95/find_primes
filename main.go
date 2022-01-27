@@ -1,6 +1,3 @@
-// https://docs.google.com/forms/d/e/1FAIpQLSdUMoPoOxIRnVZzlE_Z8tuK9edDXh94bau1-C-C-VFX_oufAQ/viewform - анкета
-// https://go.dev/play/p/dRHqCilzyPv - ex1
-// https://go.dev/play/p/K9SJf1VrYpT - ex2
 package main
 
 import (
